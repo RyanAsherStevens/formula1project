@@ -1,0 +1,54 @@
+body {
+    background-color: #999;
+}
+
+/* HEADER AND NAVIGATION */
+.main-header {
+    height: 500px;
+    background: linear-gradient(black, transparent 100%),
+                linear-gradient(0deg, #999, transparent),
+                #999 url(../images/proheader.jpeg) no-repeat center;
+    background-size: cover;
+}
+
+.title {
+    text-align: center;
+    color: #b6babf;
+    height: 5px;
+    padding-top: 150px;
+    font-size: 5em;
+}
+
+.subtitle {
+    text-align: center;
+    color: #b6babf;
+    height: 5px;
+    padding-top: 75px;
+    font-size: 3em;
+    font-style: italic;
+}
+
+.main-nav {
+    display: inline;
+    text-align: center;
+    font-size: 2em;
+    text-decoration: none;
+    list-style: none;
+    word-spacing: normal;
+}
+
+
+
+
+/* ====== MEDIA QUERIES ===== */
+
+
+
+
+
+
+
+
+
+
+
